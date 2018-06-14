@@ -15,7 +15,7 @@
     "test": "xo && ava --serial"
   },
   "engines": {
-    "node": ">= 4"
+    "node": ">= 8.6"
   },
   "files": [
     "index.js"
